@@ -10,6 +10,7 @@
     border-radius: 8px;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     margin: 16px;
+    transition: 0.3s;
 }
 .name {
     font-weight: bold;
@@ -42,7 +43,7 @@
     border-right: 1px solid #A0AEC0;
 }
 .card:hover {
-    box-shadow: 0 8px 16px rgba
+    box-shadow: 0 8px 16px rgba(0,0,0,0.2)
 }
 .button:hover {
     background-color: #4A5568;
